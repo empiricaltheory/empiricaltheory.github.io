@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+Accepted papers will be part of the conference proceedings. Submission details will be added "soon".
+
 # Paper pre-registration
 
 The workshop will have a call for papers on empirical insights,

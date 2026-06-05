@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+ ![ET logo](/assets/img/ETlogo.png)
 
 ##### Representation learning
 
