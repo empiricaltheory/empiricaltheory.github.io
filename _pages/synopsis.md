@@ -113,7 +113,7 @@ This workshop shines a spotlight on such work, aiming to incentivize
 empirical insights, and empirical theory building for the entire field
 of representation learning.
 
-### Relation to other workshops and initiatives
+##### Relation to other workshops and initiatives
 
 Pre-registration in machine learning was explored at NeurIPS in 2011 in
 the Pre-registration workshop: An alternative publication model for
@@ -134,6 +134,13 @@ We here aim to foster, and build a community for understanding-based
 research that is currently scattered over multiple venues, and mixed in
 with improvement-based research.
 
+
+
+<p>&nbsp;</p>
+
+---
+
+<p>&nbsp;</p>
 
 ### Bibliography
 

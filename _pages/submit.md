@@ -9,6 +9,8 @@ nav_order: 3
 
 Accepted papers will be part of the conference proceedings. Submission details will be added "soon".
 
+The final camera-ready deadline for workshop papers as set by ECCV is August 14 2026, any time on earth.
+
 # Paper pre-registration
 
 The workshop will have a call for papers on empirical insights,
@@ -37,3 +39,15 @@ proposal is reviewed, given feedback, and scored on acceptance
 likelihood if deemed interesting, independent of what findings come out.
 Additionally, we offer poster boards to relevant work from the main
 conference, offering authors an additional presentation venue.
+
+
+
+<p>&nbsp;</p>
+
+---
+
+<p>&nbsp;</p>
+
+### Bibliography
+
+  {% bibliography --cited %}
