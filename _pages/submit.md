@@ -7,25 +7,38 @@ nav: true
 nav_order: 3
 ---
 
-Accepted papers will be part of the conference proceedings. Submission details will be added "soon".
+Accepted papers will be part of the conference proceedings.
+
+Submission details will be added "soon".
 
 The final camera-ready deadline for workshop papers as set by ECCV is August 14 2026, any time on earth.
 
 
 ### Call for papers
 
-We sollicit work that aims (at some point) to be  *text-book material*, i.e.: the things we teach students of deep representation learning. This includes, but is not limited to, research that explains why deep learning methods work, debunks or reinterprets existing common views, posits empirical regularities/laws, new empirical theories, etc.
+Our workshop solicits contributions describing research work that explains why deep learning methods work, debunks or reinterprets existing common views, posits empirical regularities/laws, new empirical theories, etc.
 
 The workshop aims for inclusion; and we will interpret the scope broadly; i.e.: we will err on the side of inclusion. Bold numbers are neither sufficient, nor necessary.
 
 That said, we do aim for *understanding*, for *theory*, for *empiricism*, and for *representation learning*. Which means we do not aim for pure mathematical theory, and not about idiosyncratic systems nor data analysis. I.e., the following type of papers are less in scope:
+
 - Improving the state of the art without evidence why (we aim for understanding-based research);
 - Improving the state of the art without evidence that the improvements generalize (*we aim for "theory"; ie: generalization beyond a single idiosyncratic system*);
 - Pure mathematical machine learning theory paper (*we aim for empirical theory*);
 - "How well can Large Pre-trained AI Model X do task Y?"  (*We care less about finished artifacts with idiosyncratic training data, but instead aim for representation learning, so, with some "learning" involved*).
 
-We will post a more detailed list of topics soon.
+Partly inspired by the [Workshop on Scientific Methods for Understanding Deep Learning](https://scienceofdlworkshop.github.io) we consider the following topics a good fit:
 
+
+- Propose, validate and/or falsify hypotheses about the inner workings of deep networks,
+- Empirical observations to inform or inspire theoretical models,
+- Minimal analytical models that explain observed phenomena,
+- Controlled experiments for compiling rigorous empirical evidence,
+- Reproduce prior empirical results in simplified or extended settings,
+- introduce new experimental tools and methodologies for studying representation learning.
+
+
+This is not meant as an exhaustive limited list.
 
 ### Paper pre-registration
 
@@ -56,6 +69,8 @@ likelihood if deemed interesting, independent of what findings come out.
 Additionally, we offer poster boards to relevant work from the main
 conference, offering authors an additional presentation venue.
 
+
+More details to follow.
 
 
 <p>&nbsp;</p>
