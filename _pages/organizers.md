@@ -45,7 +45,7 @@ nav_order: 5
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/jan.jpg" title="Jan" class="img-fluid rounded z-depth-1" %}
-        <a href="https://jvgemert.github.io/">Jan van Gemert]</a> heads the Computer  Vision lab at Delft University of Technology, in The Netherlands. He aims at fundamental understand-based deep learning reseach.
+        <a href="https://jvgemert.github.io/">Jan van Gemert</a> heads the Computer  Vision lab at Delft University of Technology, in The Netherlands. He aims at fundamental understand-based deep learning reseach.
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/hayley.jpg" title="Hayley" class="img-fluid rounded z-depth-1" %}

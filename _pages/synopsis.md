@@ -7,7 +7,14 @@ nav: true
 nav_order: 2
 ---
 
- ![ET logo](/assets/img/ETlogo.png)
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ETlogo.png" title="E.T. logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 ##### Representation learning
 
@@ -113,7 +120,7 @@ This workshop shines a spotlight on such work, aiming to incentivize
 empirical insights, and empirical theory building for the entire field
 of representation learning.
 
-##### Relation to other workshops and initiatives
+#### Relation to other workshops and initiatives
 
 Pre-registration in machine learning was explored at NeurIPS in 2011 in
 the Pre-registration workshop: An alternative publication model for

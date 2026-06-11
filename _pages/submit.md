@@ -11,7 +11,18 @@ Accepted papers will be part of the conference proceedings. Submission details w
 
 The final camera-ready deadline for workshop papers as set by ECCV is August 14 2026, any time on earth.
 
-# Paper pre-registration
+
+### Call for papers
+
+We sollicit work that target "*text-book material*", i.e.: the things we aim to teach students of deep representation learning. This includes, but is not limited to, research that explains why deep learning methods work, debunks or re-interprets existing views, postis empirical regularities/laws, new empirical theories, etc.
+
+The workshop aims for inclusion; and we will interpret the scope broadly; ie: we will err on the side of inclusion. Bold numbers are neither sufficient, nor neccesary.
+
+
+We will post a more detailed list of topics soon.
+
+
+### Paper pre-registration
 
 The workshop will have a call for papers on empirical insights,
 empirical theory, how to do empirical representation learning research,

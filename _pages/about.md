@@ -31,6 +31,8 @@ latest_posts:
 
 This workhop is about promoting  scientific theory building in deep representation learning; see the [synopsis](./synopsis/) for more information. We have related international [keynotes](./people/), a [call for papers](./submit/), which are pre-registered and peer-reviewed and after [acceptance](./publications/) will be published in official procedings.
 
+
+
 ##### Tentative workshop schedule
 
 | Opening and motivation | 15 min |
