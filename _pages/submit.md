@@ -20,7 +20,9 @@ Our workshop solicits contributions describing research work that explains why d
 
 The workshop aims for inclusion; and we will interpret the scope broadly; i.e.: we will err on the side of inclusion. Bold numbers are neither sufficient, nor necessary.
 
-That said, we do aim for *understanding*, for *theory*, for *empiricism*, and for *representation learning*. Which means we do not aim for pure mathematical theory, and not about idiosyncratic systems nor data analysis. I.e., the following type of papers are less in scope:
+That said, we do aim for *understanding*, for *theory*, for *empiricism*, and for *representation learning*. Which means we do not aim for pure mathematical theory, and not about idiosyncratic systems nor data analysis.
+
+I.e., the following type of papers are less fitting our scope:
 
 - Improving the state of the art without evidence why (we aim for understanding-based research);
 - Improving the state of the art without evidence that the improvements generalize (*we aim for "theory"; ie: generalization beyond a single idiosyncratic system*);
