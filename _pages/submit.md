@@ -25,7 +25,7 @@ Timeline (any time on earth in 2026):
 - August 10: Notification to authors.
 - August 14: Camera-ready deadline.
 
-Storylines that do not follow  the template in [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) are at risk of desk rejection. 
+Submissions without a *Storyline* or a *Storyline* that does not follow the structure in [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) are at risk of desk rejection. 
 
 All submissions are anonymous, and full-papers must follow the [ECCV 2026 Submission Policies](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies).
 
