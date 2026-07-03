@@ -31,7 +31,7 @@ latest_posts:
 
 This workhop is about promoting  scientific theory building in deep representation learning; see the [synopsis](./synopsis/) for more information. We have related international [keynotes](./people/), a [call for papers](./submit/), which are pre-registered and peer-reviewed and after [acceptance](./publications/) will be published in official procedings.
 
-Date/time: 8th or 9th of September 2026. *(We are not yet allocated a slot)*
+Date/time: September 8, afternoon *(We don't know exact location/times yet.)*
 
 Location: Malmö, Sweden
 

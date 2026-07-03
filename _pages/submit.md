@@ -7,11 +7,29 @@ nav: true
 nav_order: 3
 ---
 
-Accepted papers will be part of the conference proceedings.
+All submission must include a 1-page *Storyline* , as described here: [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) (examples included). 
+Please follow the 1-page *Storyline* template available as a [LaTeX](https://jvgemert.github.io/assets/pdf/storyline-empty.tex) or [PDF](https://jvgemert.github.io/assets/pdf/storyline-empty.pdf) file. 
 
-Submission details will be added "soon".
 
-The final camera-ready deadline for workshop papers as set by ECCV is August 14 2026, any time on earth.
+We have 2 tracks: 
+
+
+- **Storyline-only track**: only the 1-page *Storyline*. This track is non-archival, so not part of any published proceedings, but authors can present a poster at the workshop for feedback and brainstorming. 
+
+
+- **Full paper track**: 14 pages maximum, in [ECCV 2026 format](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies) excluding references, with it's 1-page *Storyline* in the appendix. Accepted papers will be part of the conference proceedings. Authors present a poster and we will select some work for oral presentation.
+
+Timeline (any time on earth in 2026):
+
+- August 1: Final submission deadline (for both tracks).
+- August 10: Notification to authors.
+- August 14: Camera-ready deadline.
+
+Storylines that do not follow  the template in [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) are at risk of desk rejection. 
+
+All submissions are anonymous, and full-papers must follow the [ECCV 2026 Submission Policies](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies).
+
+Please note, we use Openreview, so if you don't have an Openreview profile, please create one as soon as possible, and use an institutional email if possible; otherwise, approval might take up to 2 weeks. 
 
 
 ### Call for papers
@@ -42,7 +60,7 @@ Thus, the following type of papers are less fitting our scope:
 - Pure mathematical machine learning theory paper (*we aim for empirical theory*);
 - "How well can Large Pre-trained AI Model X do task Y?"  (*We care less about finished artifacts with idiosyncratic training data, but instead aim for representation learning, so, with some "learning" involved*).
 
-### Paper pre-registration
+### Storyline: empirical rigor 
 
 The workshop will have a call for papers on empirical insights,
 empirical theory, how to do empirical representation learning research,
@@ -65,14 +83,11 @@ and design the review process accordingly, including questions such as
 - Methodological generalizability: how are the findings relevant to
   other methods/papers?
 
-We will use paper pre-registration, where a short, templated, research
-proposal is reviewed, given feedback, and scored on acceptance
-likelihood if deemed interesting, independent of what findings come out.
-Additionally, we offer poster boards to relevant work from the main
+
+To accommodate empirical rigor, we will use  a 1-page *Storyline*, to make empirical evidence explicit. The *Storyline* is described here: [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) (examples included). 
+All papers need to offer a *Storyline*, we will also allow a *Storyline-only* submission, where poster boards are availble for early brainstorming. Additionally, we offer poster boards to relevant work from the main
 conference, offering authors an additional presentation venue.
 
-
-More details to follow.
 
 
 <p>&nbsp;</p>
