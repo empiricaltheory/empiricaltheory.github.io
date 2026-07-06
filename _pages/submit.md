@@ -22,7 +22,8 @@ We have 2 tracks:
 Timeline (any time on earth in 2026):
 
 - August 1: Final submission deadline (for both tracks).
-- August 10: Notification to authors.
+- August 7: Author acceptance notification.
+- August 10: Workshop author registration deadline.
 - August 14: Camera-ready deadline.
 
 Submissions without a *Storyline* or a *Storyline* that does not follow the structure in [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) are at risk of desk rejection. 
