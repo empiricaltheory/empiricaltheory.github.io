@@ -37,6 +37,8 @@ All submissions are anonymous, and full-papers must follow the [ECCV 2026 Submis
 
 Please note, we use Openreview, so if you don't have an Openreview profile, please create one as soon as possible, and use an institutional email if possible; otherwise, approval might take up to 2 weeks. 
 
+Note: We might require reciprocal reviewing in case we get an unexpected high number of submissions.
+
 ---
 
 ### Call for papers
