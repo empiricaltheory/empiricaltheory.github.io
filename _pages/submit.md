@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-All submission must include a 1-page *Storyline* , as described here: [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) (examples included). 
+All submission must include a 1-page *Storyline*, as described here: [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) (examples included). 
 Please follow the 1-page *Storyline* template available as a [LaTeX](https://jvgemert.github.io/assets/pdf/storyline-empty.tex) or [PDF](https://jvgemert.github.io/assets/pdf/storyline-empty.pdf) file. 
 
 
@@ -28,10 +28,16 @@ Timeline (any time on earth in 2026):
 
 Submissions without a *Storyline* or a *Storyline* that does not follow the structure in [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) are at risk of desk rejection. 
 
+Not all elements of the *Storyline* always apply. Use the parts of the *Storyline* that are relevant to the research. 
+
+The *Storyline* will be used by reviewers to assess the work; see the [reviewer questions](#reviewer-questions) below.
+
+
 All submissions are anonymous, and full-papers must follow the [ECCV 2026 Submission Policies](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies).
 
 Please note, we use Openreview, so if you don't have an Openreview profile, please create one as soon as possible, and use an institutional email if possible; otherwise, approval might take up to 2 weeks. 
 
+---
 
 ### Call for papers
 
@@ -61,6 +67,8 @@ Thus, the following type of papers are less fitting our scope:
 - Pure mathematical machine learning theory paper (*we aim for empirical theory*);
 - "How well can Large Pre-trained AI Model X do task Y?"  (*We care less about finished artifacts with idiosyncratic training data, but instead aim for representation learning, so, with some "learning" involved*).
 
+---
+
 ### Storyline: empirical rigor 
 
 The workshop will have a call for papers on empirical insights,
@@ -88,6 +96,68 @@ and design the review process accordingly, including questions such as
 To accommodate empirical rigor, we will use  a 1-page *Storyline*, to make empirical evidence explicit. The *Storyline* is described here: [https://jvgemert.github.io/storyline.pdf](https://jvgemert.github.io/storyline.pdf) (examples included). 
 All papers need to offer a *Storyline*, we will also allow a *Storyline-only* submission, where poster boards are availble for early brainstorming. Additionally, we offer poster boards to relevant work from the main
 conference, offering authors an additional presentation venue.
+
+
+
+---
+
+
+### Reviewer Questions
+
+(Tentative) These are the questions we ask to reviewers on OpenReview.
+
+
+
+###### **1. Summary of the paper**
+Please give a short summary of the paper.
+
+[Textbox]
+
+###### **2.  Argumentation** 
+See the 1-page *Storyline* (points 1-4) in the appendix of the submitted paper. Note, that not all parts of the *Storyline* need to be present, only the relevant parts. Consider the following questions. 
+- What argumentation is there that the setting is reasonable/interesting? (*Storyline: 1 Why Interesting?*)
+- Are the related methods factual, relevant, complete? (*Storyline: 2 How done now?*)
+- Is the Problem and it's consequences clearly described? ("So What?")  (*Storyline: 3: Problem*)
+- Is the Proposed improvement matching the problem? (*Storyline: 4: Proposed*)
+
+[Textbox]
+
+###### **3. Empirical rigor/evidence (experiments)**
+See the 1-page *Storyline: 5 Experiments* in the appendix of the submitted paper. Note that not all experimental questions discussed in the *Storyline* need to be present, only the relevant experimental questions. Consider how is the following shown, and is it shown correctly: 
+- Argumentation for the chosen datasets? (*Storyline: c1, u1*)
+- Baseline/competition methods are well reproduced/reasonable?  (*Storyline: c2, u2*)
+- Baseline/competition methods suffering from the identified problem, and not some other confounder? (*Storyline: c3, u3*)
+- The proposed improvement come from what is claimed, and not due to some other confounding effect? (_e.g._ hyper-parameters?) (*Storyline: c4, u4*)
+
+[Textbox]
+
+###### **4. Fit to the scope of the workshop**
+Is the paper a good fit to the goals of the workshop?
+- If the state of the art is improved, is there sufficient evidence for why?
+- How much empirical theory is there? Ie: how well would the paper's insight generalize to other works?
+- Is it mainly mathematical theory without much empirical evidence?
+- Is it mainly an analysis of an existing (pre-trained) artifact without interventions?
+
+[Textbox]
+
+###### **5. Strengths and weaknesses**
+What does the paper do well, and what can be improved.
+
+[Textbox]
+
+######  **6. Conclusion**
+Reasons for the decision; feedback, suggestions for improvements, etc.
+
+[Textbox]
+
+######  **7. Decision**
+1. Clear accept
+2. Weak Accept
+3. Weak Reject
+4. Clear reject
+
+
+
 
 
 
