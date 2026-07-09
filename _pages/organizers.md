@@ -13,8 +13,7 @@ nav_order: 5
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/margret.jpg" title="Margret" class="img-fluid rounded z-depth-1" %}
-        <a href="https://www.keuper-labs.org/members/margret.html">Prof. Margret
-  Keuper</a> is full
+        <a href="https://www.keuper-labs.org/members/margret.html">Prof. Margret Keuper</a> is full
   Professor for Machine Learning at Mannheim University and head of the
   Robust Visual Learning Group at MPI Saarbrücken. She is know for
   repeatably publishing results that generalize

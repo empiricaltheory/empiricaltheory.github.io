@@ -17,7 +17,7 @@ We have 2 tracks:
 - **Storyline-only track**: only the 1-page *Storyline*. This track is non-archival, so not part of any published proceedings, but authors can present a poster at the workshop for feedback and brainstorming. 
 
 
-- **Full paper track**: 14 pages maximum (excluding references) in [ECCV 2026 format](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies) with it's 1-page *Storyline* in the appendix. Accepted papers will be part of the conference proceedings. Authors present a poster and we will select some work for oral presentation.
+- **Full paper track**: 14 pages maximum (excluding references) in [ECCV 2026 format](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies) with it's 1-page *Storyline* in the appendix. Accepted papers will be part of the official workshop proceedings. Authors present a poster and we will select some work for oral presentation.
 
 Timeline (any time on earth in 2026):
 

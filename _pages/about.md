@@ -39,10 +39,10 @@ Location: Malmö, Sweden
 ##### Tentative workshop schedule
 
 | Opening and motivation | 15 min |
-| Keynote 1 | 45 min |
-| Keynote 2 | 45 min |
+| Keynote 1: [Dr. Wieland Brendel](https://brendel-group.github.io/authors/wieland-brendel/)  | 45 min |
+| Keynote 2: [Prof. Steven Scholte](https://www.uva.nl/en/profile/s/c/h.s.scholte/h.s.scholte.html) | 45 min |
 | Orals | 30 min |
-| Keynote 2 | 45 min |
+| Keynote 3: [Prof. Margret Keuper](https://www.keuper-labs.org/members/margret.html) | 45 min |
 | posters | 1h |
 | **Total** | 4h |
 
