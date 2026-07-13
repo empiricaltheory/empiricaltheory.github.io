@@ -11,6 +11,7 @@ All submission must include a 1-page *Storyline*, as described here: [https://jv
 Please follow the 1-page *Storyline* template available as a [LaTeX](https://jvgemert.github.io/assets/pdf/storyline-empty.tex) or [PDF](https://jvgemert.github.io/assets/pdf/storyline-empty.pdf) file. 
 
 
+
 We have 2 tracks: 
 
 
@@ -18,6 +19,10 @@ We have 2 tracks:
 
 
 - **Full paper track**: 14 pages maximum (excluding references) in [ECCV 2026 format](https://eccv.ecva.net/Conferences/2026/SubmissionPolicies) with it's 1-page *Storyline* in the appendix. Accepted papers will be part of the official workshop proceedings. Authors present a poster and we will select some work for oral presentation.
+
+
+
+Submit on [![OpenReview](/assets/img/openreview.png)](https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/ET)
 
 Timeline (any time on earth in 2026):
 
