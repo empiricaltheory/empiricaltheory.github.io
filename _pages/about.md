@@ -31,19 +31,18 @@ latest_posts:
 
 This workhop is about promoting  scientific theory building in deep representation learning; see the [synopsis](./synopsis/) for more information. We have related international [keynotes](./people/), a [call for papers](./submit/), which are pre-registered and peer-reviewed and after [acceptance](./publications/) will be published in official procedings.
 
-Date/time: September 8, afternoon *(We don't know exact location/times yet.)*
+- Date/time: Sep 8, 2026 at 13:15 CEST (Europe/Stockholm time)
+- Location: Quality View Hotel - Stroget D, Malmö, Sweden
+- All posters will be in the Malmo Massan Exhibit Hall.
+- [Link to virtual workshop site](https://eccv.ecva.net/virtual/2026/workshop/3124)
 
-Location: Malmö, Sweden
+##### Workshop schedule
 
-
-##### Tentative workshop schedule
-
-| Opening and motivation | 15 min |
-| Keynote 1: [Dr. Wieland Brendel](https://brendel-group.github.io/authors/wieland-brendel/)  | 45 min |
-| Keynote 2: [Prof. Steven Scholte](https://www.uva.nl/en/profile/s/c/h.s.scholte/h.s.scholte.html) | 45 min |
-| Orals | 30 min |
-| Keynote 3: [Prof. Margret Keuper](https://www.keuper-labs.org/members/margret.html) | 45 min |
-| posters | 1h |
-| **Total** | 4h |
+| 13:15 | Opening and motivation | 15 min |
+| 13:30 | Keynote 1: [Dr. Wieland Brendel](https://brendel-group.github.io/authors/wieland-brendel/)  | 45 min |
+| 14:15 | Orals | 45 min |
+| 15:00 | posters and coffee break | 1h |
+| 16:00 | Keynote: [Prof. Margret Keuper](https://www.keuper-labs.org/members/margret.html) | 45 min |
+| 16:45 | Keynote: [Prof. Steven Scholte](https://www.uva.nl/en/profile/s/c/h.s.scholte/h.s.scholte.html) | 45 min |
 
 ---
