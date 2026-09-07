@@ -36,13 +36,39 @@ This workhop is about promoting  scientific theory building in deep representati
 - All posters will be in the Malmo Massan Exhibit Hall.
 - [Link to virtual workshop site](https://eccv.ecva.net/virtual/2026/workshop/3124)
 
-##### Workshop schedule
 
-| 13:15 | Opening and motivation | 15 min |
-| 13:30 | Keynote 1: [Dr. Wieland Brendel](https://brendel-group.github.io/authors/wieland-brendel/)  | 45 min |
-| 14:15 | Orals | 45 min |
-| 15:00 | posters and coffee break | 1h |
-| 16:00 | Keynote: [Prof. Margret Keuper](https://www.keuper-labs.org/members/margret.html) | 45 min |
-| 16:45 | Keynote: [Prof. Steven Scholte](https://www.uva.nl/en/profile/s/c/h.s.scholte/h.s.scholte.html) | 45 min |
+<p>&nbsp;</p>
+
+
+#### Workshop schedule
+
+| 13:15 | Opening  | [Jan van Gemert](https://jvgemert.github.io/) | Head Computer Vision lab, TU Delft | Motivation |
+| 13:30 | Keynote: | [Wieland Brendel](https://brendel-group.github.io/authors/wieland-brendel/)  | Principal Investigator (PI) Max Planck Institute for Intelligent Systems | 45 min |
+| 14:15 | Orals | | see below  | 45 min |
+| 15:00 | posters | | coffee break  | 1h |
+| 16:00 | Keynote:|  [Margret Keuper](https://www.keuper-labs.org/members/margret.html)  | Full Professor for Machine Learning at Mannheim University | What makes models robust? |
+| 16:45 | Keynote: | [Steven Scholte](https://www.uva.nl/en/profile/s/c/h.s.scholte/h.s.scholte.html) |  Neuroscientist at University of Amsterdam |  Small theories of large models: predict, control, extend |
+
+
+<p>&nbsp;</p>
+
+
+
+#### Oral presentations:
+
+
+- "The FID Lottery: Quantifying Hidden Randomness in Generative Model Evaluation" by Nicolas Dufour, Alexei A Efros, Patrick Perez 
+
+- "How Image Classifiers Accumulate Class Evidence with Depth, and How to Supervise It" by Han Wang, Hilde Kuehne 
+
+- "When Is a Task Vector Enough? An Empirical Theory of Implicit Multimodal ICL" by Jiaqian Li
+
+- "How neural network architecture shapes the reliance on local features" by 
+Aurélien Boland and Hannah Pinson.
+
+- "Probing Feed-Forward 3D Reconstruction through Controlled Representation Intervention" by Matti Marino Schlenker, Fran Zezelj, Philipp M. H. Bernhardt, Bernhard Schölkopf, Andreas Geiger, Polina Karpikova, Gege Gao 
+
+- "Where Does Generative Difficulty Reside? An Empirical Study of Target Representations" by Marcel Plocher, Bernhard Schölkopf, Andreas Geiger, Gege Gao 
+
 
 ---

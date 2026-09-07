@@ -9,12 +9,6 @@ nav_order: 4
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
+All accepted papers are available on [![OpenReview](/assets/img/openreview.png)](https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/ET)
 
-{% include bib_search.liquid %}
 
-<div class="publications">
-
-  {% bibliography --group_by none --query @*[selected=true]* %}
-
-</div>
