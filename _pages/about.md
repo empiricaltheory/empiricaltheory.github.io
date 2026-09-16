@@ -29,7 +29,7 @@ latest_posts:
 
 ##### About
 
-This workhop is about promoting  scientific theory building in deep representation learning; see the [synopsis](./synopsis/) for more information. We have related international [keynotes](./people/), a [call for papers](./submit/), which are pre-registered and peer-reviewed and after [acceptance](./publications/) will be published in official procedings.
+This workshop is about promoting  scientific theory building in deep representation learning; see the [synopsis](./synopsis/) for more information. We have related international [keynotes](./people/), a [call for papers](./submit/), which are pre-registered and peer-reviewed and after [acceptance](./publications/) will be published in official procedings.
 
 - Date/time: Sep 8, 2026 at 13:15 CEST (Europe/Stockholm time)
 - Location: Quality View Hotel - Stroget D, Malmö, Sweden
@@ -42,12 +42,16 @@ This workhop is about promoting  scientific theory building in deep representati
 
 #### Workshop schedule
 
-| 13:15 | Opening  | [Jan van Gemert](https://jvgemert.github.io/) | Head Computer Vision lab, TU Delft | Motivation |
-| 13:30 | Keynote: | [Wieland Brendel](https://brendel-group.github.io/authors/wieland-brendel/)  | Principal Investigator (PI) Max Planck Institute for Intelligent Systems | 45 min |
-| 14:15 | Orals | | see below  | 45 min |
-| 15:00 | posters | | coffee break  | 1h |
-| 16:00 | Keynote:|  [Margret Keuper](https://www.keuper-labs.org/members/margret.html)  | Full Professor for Machine Learning at Mannheim University | What makes models robust? |
-| 16:45 | Keynote: | [Steven Scholte](https://www.uva.nl/en/profile/s/c/h.s.scholte/h.s.scholte.html) |  Neuroscientist at University of Amsterdam |  Small theories of large models: predict, control, extend |
+| 13:15 | Opening  | [Jan van Gemert](https://jvgemert.github.io/) | Head Computer Vision lab, TU Delft | [Why Empirical Theory in representation learning?](./assets/pdf/ET.pdf) |
+| | | | 
+| 13:30 | Keynote: | [Wieland Brendel](https://brendel-group.github.io/authors/wieland-brendel/)  | Principal Investigator (PI) Max Planck Institute for Intelligent Systems | [What neural networks actually learn?](./assets/pdf/What_neural_networks_actually_learn_ECCV-ET-workshop.pdf) |
+| | | | 
+| 14:15 | Orals | | see below  | |
+| 15:00 | posters | | coffee break  |  |
+| | | | 
+| 16:00 | Keynote:|  [Margret Keuper](https://www.keuper-labs.org/members/margret.html)  | Full Professor for Machine Learning at Mannheim University | [What makes models robust?](./assets/pdf/ET_WhatMakesModelsRobust.pdf) |
+| | | | 
+| 16:45 | Keynote: | [Steven Scholte](https://www.uva.nl/en/profile/s/c/h.s.scholte/h.s.scholte.html) |  Neuroscientist at University of Amsterdam |  [Small theories of large models: predict, control, extend](./assets/pdf/Small_theories_of_large_models.pdf) |
 
 
 <p>&nbsp;</p>
